@@ -29,7 +29,7 @@ const Portfolio = () => {
       id: 4,
       src: movieApp,
       href: "https://github.com/Ticrae/MovieApp",
-      demo: "https://utibeabasi-admin-dashboard.netlify.app/",
+      demo: "https://utibeabasi-movieapp.netlify.app/",
     },
     {
       id: 5,
