@@ -16,7 +16,7 @@ const Portfolio = () => {
     {
       id: 2,
       src: fashion,
-      href: "",
+      href: "https://github.com/Ticrae/gorek",
       demo: "",
     },
     {
@@ -34,7 +34,7 @@ const Portfolio = () => {
     {
       id: 5,
       src: projectphp,
-      href: "/",
+      href: "",
       demo: "",
     },
   ];
